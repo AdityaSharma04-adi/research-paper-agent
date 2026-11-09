@@ -1,0 +1,6 @@
+{
+  "name": "Research Paper Agent",
+  "description": "Step-by-step academic paper analysis powered by chain-of-thought reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
